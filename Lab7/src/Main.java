@@ -1,4 +1,4 @@
-
+import KI34.Olkhovyk.Lab7.*;
 
 public class Main {
 
